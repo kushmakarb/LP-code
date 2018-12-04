@@ -1,0 +1,1 @@
+model project.mod; data project.dat; solve; display x;
